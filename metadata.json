@@ -1,0 +1,7 @@
+{
+  "name": "MYLY",
+  "description": "A warm, magical companion app for long-distance couples with mini-games, streak tracking, cycle care, AI date ideas, and shared playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
